@@ -6,5 +6,5 @@ Foolin' around with Java...
 ## Usage
 ```console
 chmod +x build
-$ ./build
+./build
 ```
